@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.heiden.dbp.zuul.plugins.ratelimit.RateLimitAutoConfiguration,\
+com.heiden.dbp.zuul.ribbon.support.RibbonDiscoveryRuleAutoConfiguration
